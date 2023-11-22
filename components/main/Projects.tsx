@@ -15,16 +15,19 @@ const Projects = () => {
           src="/study365.jpg"
           title="Study 365"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+          visitLink="https://www.study365.co.uk/" // Add the visit link
         />
         <ProjectCard
           src="/gel.jpg"
           title="Global Edulink"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          visitLink="https://staging-gel.imperiallearning.org/" // Add the visit link
         />
         <ProjectCard
           src="/paradise-travel.jpg"
           title="Paradise Travel"
-          description="Paradise Travels has been the leader in the Sri Lankan tourism industry for over 10 years and one of the top vist site in Sri Lanka"
+          description="Paradise Travels has been the leader in the Sri Lankan tourism industry for over 10 years and one of the top visit sites in Sri Lanka"
+          visitLink="https://arosharavishan.github.io/paradisetravel.github.io/" // Add the visit link
         />
       </div>
     </div>

@@ -13,7 +13,7 @@ const Hero = () => {
         <source src="/blackhole.webm" type="video/webm" />
       </video>
       <HeroContent />
-    </div>
+    </div>  
   );
 };
 

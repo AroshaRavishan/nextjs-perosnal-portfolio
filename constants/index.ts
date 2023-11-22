@@ -82,19 +82,21 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/instagram.svg",
+      name: "LinkedIn",
+      src: "/linkedin.svg",
+      link: "https://www.linkedin.com/in/arosha-ravishan-89b459247/",
     },
     {
       name: "Facebook",
       src: "/facebook.svg",
+      link: "https://www.facebook.com/profile.php?id=100089328633392&mibextid=ZbWKwL",
     },
     {
-      name: "Instagram",
-      src: "/discord.svg",
+      name: "gamil",
+      src: "/gmail.svg",
+      link: "mailto:mgaravishan@gmail.com",
     },
   ];
-  
   
   
   export const Frontend_skill = [
